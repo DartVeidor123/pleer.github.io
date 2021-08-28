@@ -1,0 +1,32 @@
+.autorization {
+	margin-left: 170px;
+}
+.registration {
+	margin-left: 170px;
+}
+.login {
+	background-color: #b2bf24;
+	color: #ffffff;
+}
+.login:hover {
+	background-color: #ff08e2;
+}
+#register {
+	background-color: #ff00e1;
+	color: #ffffff;
+}
+#register:hover {
+	background-color: #05ffda;
+	color: #ffffff;
+}
+#register:active{
+	background-color: #16ff05;
+	color: #ffffff;
+}
+footer {
+	padding-top: 1000px;
+}
+img{
+	width: 400px;
+	height: 400px;
+}
